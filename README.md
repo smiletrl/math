@@ -1,3 +1,3 @@
 # math
 
-Math exercises for number theory and cryptography.
+Math exercises for (Number theory)/Algebra and cryptography.
